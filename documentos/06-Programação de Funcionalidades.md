@@ -10,11 +10,21 @@ Exemplo da tela de cadastro:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/3807e944-8ad8-4b76-a17f-e8931c37f2d6)
 
+Tela de Recuperação de Senha (RF-003)
+Responsável: João Carlos
+
+O acesso a tela de recuperação de senha poderá ser feito através da opção de menu "Esqueci Minha Senha". As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de recuperação de senha:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/166865690/001ff893-c050-4cd4-92e4-c117d456c847)
 
 
 #### Requisito atendido
 
-A tela peremite que o usuário realize o login na sua conta de acordo com o requisito funcional RF-02
+A tela permite que o usuário realize o login na sua conta de acordo com o requisito funcional RF-02
+
+A tela permite que o usuário realize a recuperação de senha de acordo com o requisito funcional RF-03
 
 
 #### Artefatos da funcionalidade
