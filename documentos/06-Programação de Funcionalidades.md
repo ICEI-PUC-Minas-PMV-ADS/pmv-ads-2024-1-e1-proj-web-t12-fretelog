@@ -1,12 +1,15 @@
-# Programação de Funcionalidades
+Programação de Funcionalidades
+Pré-requisitos: Especificação do Projeto, Metodologia, Projeto de Interface.
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
+Tela de Cadastro (RF-001)
+Responsável: Marlon
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
+O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastro”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-### Tela de login
+Exemplo da tela de cadastro:
 
-img/login.png
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/3807e944-8ad8-4b76-a17f-e8931c37f2d6)
+
 
 
 #### Requisito atendido
