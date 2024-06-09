@@ -36,7 +36,7 @@ O FreteLog visa desenvolver uma plataforma digital para o cadastro de motoristas
 
 # Hospedagem
 
-A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique [aqui](aquihttps://marlonluiz92.github.io/host_fretelog/paginaInicial/index.html). para acessá-lo. 
+A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://marlonluiz92.github.io/host_fretelog/paginaInicial/index.html">aqui</a> para acessá-lo. 
 
 # Código-Fonte
 
