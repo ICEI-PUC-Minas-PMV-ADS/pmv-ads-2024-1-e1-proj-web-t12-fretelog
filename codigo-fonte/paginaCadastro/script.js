@@ -38,7 +38,7 @@ function checkInputUsername() {
     const usernameValue = username.value;
 
     if (usernameValue === "") {
-        errorInput(username, "O nome do usuário é obrigatorio.")
+        errorInput(username, "Preenche o nome do usuário")
     } else {
         const formItem = username.parentElement;
         formItem.className = "form-content"
@@ -122,7 +122,25 @@ function checkForm() {
         return item.className === "form-content"
     });
 
-
+    if (isValid) {
+        // Salva os dados do usuário no localStorage
+        var usuario = {
+            nome: username.value,
+            email: email.value,
+            tel: tel.value,
+            senha: password.value
+        };
+        localStorage.setItem('usuario', JSON.stringify(usuario));
+        
+        alert("CADASTRADO COM SUCESSO!");
+    
+        // Limpa os campos do formulário
+        username.value = '';
+        email.value = '';
+        tel.value = '';
+        password.value = '';
+        passwordConfirmation.value = '';
+    }
 
 }
 
@@ -136,30 +154,3 @@ function errorInput(input, message) {
     formItem.className = "form-content error"
 
 }
-
-document.getElementById('form').addEventListener('submit', function(event) {
-    event.preventDefault();
-
-    var usuario = document.getElementById('username').value;
-    var email = document.getElementById('email').value;
-    var celular = document.getElementById('tel').value;
-    var senha = document.getElementById('password').value;
-    var confirmacaoSenha = document.getElementById('password-confirmation').value;
-
-
-    
-    var dadosUsuario = {
-        usuario: usuario,
-        email: email,
-        celular: celular,
-        senha: senha
-    };
-
-   
-    localStorage.setItem('dadosUsuario', JSON.stringify(dadosUsuario));
-
-    alert('Dados cadastrados com sucesso!');
-});
-
-
-   
