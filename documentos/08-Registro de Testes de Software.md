@@ -12,7 +12,10 @@
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/5ea72744-4f34-4d6f-be6e-d6153e4b3337)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/ac871094-0612-4fa8-b0c2-51c59dc96cab)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/ac871094-0612-4fa8-b0c2-51c59dc96cab) 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/e94e4d4e-1b59-4146-b2a4-9b0d19b5e38a)
+
 
 
 
