@@ -19,14 +19,13 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-01: Verificar o funcionamento dos links da página Home</td>
+  <td>CT-01: Verificar o funcionamento da pagina de cadastro.</td>
   <td>
    <ul>
     <li>RF-001:	O site deve permitir ao usuário cadastrar uma conta.</li>
-   <li>RF-002:	O site deve permitir ao usuário fazer o login da sua conta.</li>
    </ul>
   </td>
-  <td>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente</td>
+  <td>Verificar validações de campos, de confirmação de senha, e de conclusão do cadastro. </td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
