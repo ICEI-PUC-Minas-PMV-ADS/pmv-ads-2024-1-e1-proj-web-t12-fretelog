@@ -1,8 +1,8 @@
 const form = document.getElementById("form");
-const username = document.getElementById("username")
-const email = document.getElementById("email")
-const tel = document.getElementById("tel")
-const password = document.getElementById("password")
+const username = document.getElementById("username");
+const email = document.getElementById("email");
+const tel = document.getElementById("tel");
+const password = document.getElementById("password");
 const passwordConfirmation = document.getElementById("password-confirmation");
 
 
@@ -123,14 +123,16 @@ function checkForm() {
     });
 
     if (isValid) {
-        // Salva os dados do usuário no localStorage
-        var usuario = {
+        // Salva os dados do usuário no localStorage sem usar uma chave única
+        var dadosUsuario = { 
             nome: username.value,
             email: email.value,
             tel: tel.value,
             senha: password.value
         };
-        localStorage.setItem('usuario', JSON.stringify(usuario));
+        
+        // Substitua 'uniqueKey' por uma chave fixa, como 'dadosUsuario'
+        localStorage.setItem('dadosUsuario', JSON.stringify(dadosUsuario));
         
         alert("CADASTRADO COM SUCESSO!");
     
