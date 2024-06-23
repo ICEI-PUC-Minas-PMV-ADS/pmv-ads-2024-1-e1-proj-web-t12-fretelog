@@ -26,6 +26,16 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelo
 <li> CT-05: Verificar o funcionamento da pgina home do motorista. </li> 
 <p> Responsável: Márlon. </p>
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/61ff95c4-65ec-475b-952d-c7236603daf1
+
+<li> CT-06: Verificar o funcionamento da pagina de histórico de viagens. </li> 
+<p> Responsável: Márlon. </p>
+
+
+<li> CT-07: Verificar o funcionamento da pagina de editar perfil. </li> 
+<p> Responsável: Márlon. </p>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/7160af45-e9ac-4e5e-88f2-757cdd75c8a1
 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
