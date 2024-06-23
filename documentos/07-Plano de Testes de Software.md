@@ -204,10 +204,10 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-06: Verificar o funcionamento da histórico de viagens</td>
+  <td>CT-06: Verificar o funcionamento da pagina de histórico de viagens.</td>
   <td>
    <ul>
-   <li>RF-016:	A aplicação deve possuir uma pagina para o motorista visualizar o histórico de fretes realizados.</li>
+   <li>RF-16:	A aplicação deve possuir uma pagina para o motorista visualizar o histórico de fretes realizados.</li>
    </ul>
   </td>
   <td>Verificar se a pagina está mostrando os fretes realizados. </td>
@@ -217,6 +217,36 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Informar o endereço do site.</li>
     <li>Visualizar a pagina de fretes realizados/li>
     <li>Clicar nos links da pagina de fretes realizados.</li>
+   </ol>
+   </td>
+  <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
+  <td>Marlon</td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-07: Verificar o funcionamento da pagina de editar perfil.</td>
+  <td>
+   <ul>
+   <li>RF-05:	A aplicação deve permitir atualizar dados e documentos do usuário.</li>
+   </ul>
+  </td>
+  <td>Verificar se a pagina está salvando as alterações do cadastro. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a pagina de editar perfil/li>
+    <li>Clicar nos links da pagina de editar perfil.</li>
    </ol>
    </td>
   <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
