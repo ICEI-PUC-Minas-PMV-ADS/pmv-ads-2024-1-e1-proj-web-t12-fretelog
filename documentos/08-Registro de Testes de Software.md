@@ -13,11 +13,18 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelo
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/278033a0-f629-43e5-8e05-ba207fd2cee3
 
-<li> CT-03: Verificar o funcionamento da pagina de login.. </li> 
+<li> CT-03: Verificar o funcionamento da pagina de login. </li> 
 <p> Responsável: Márlon. </p>
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/c5f3d01b-64a9-4917-9d71-9ab840d8909c
 
+<li> CT-04: Verificar o funcionamento de recuperar a senha. </li> 
+<p> Responsável: Márlon. </p>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/0139f693-def4-4a64-aea6-4790a83e66d6
+
+<li> CT-05: Verificar o funcionamento da pgina home do motorista. </li> 
+<p> Responsável: Márlon. </p>
 
 
 
