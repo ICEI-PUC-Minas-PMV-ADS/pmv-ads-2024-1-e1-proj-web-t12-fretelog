@@ -16,7 +16,7 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 > - resolução HD (720p) ou Full HD (1080p)
 > - formato mp4.
 
-[Adicione vídeo de apresentação.]
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/164556308/ab63e626-d43f-43de-89c8-7951c7a6d510
 
 ## Hospedagem
 
