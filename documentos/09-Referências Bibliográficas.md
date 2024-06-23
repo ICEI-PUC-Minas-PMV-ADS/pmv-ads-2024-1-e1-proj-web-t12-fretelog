@@ -1,7 +1,5 @@
 # Referências Bibliográficas
 
-[Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.]
+CSS: Cascading Style Sheets Disponível em: [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/docs/Web/CSS).Acesso em: 11 abr. 2024.
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+
