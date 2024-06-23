@@ -4,9 +4,9 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
 
-Cores: a definir
-Font-family: a definir
-Font-size: a definir
+Cores: branco e tons de azul
+Font-family: verdana
+Font-size: não definido
 
 Tela de visualização do usuário motorista
 
