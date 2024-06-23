@@ -189,11 +189,40 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Clicar nos links da pagina home motorista.</li>
    </ol>
    </td>
-  <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas, com exceção a pagina de historico de viagens.</td>
+  <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
   <td>Marlon</td>
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-06: Verificar o funcionamento da histórico de viagens</td>
+  <td>
+   <ul>
+   <li>RF-016:	A aplicação deve possuir uma pagina para o motorista visualizar o histórico de fretes realizados.</li>
+   </ul>
+  </td>
+  <td>Verificar se a pagina está mostrando os fretes realizados. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a pagina de fretes realizados/li>
+    <li>Clicar nos links da pagina de fretes realizados.</li>
+   </ol>
+   </td>
+  <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
+  <td>Marlon</td>
+ </tr>
+</table>
 
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
