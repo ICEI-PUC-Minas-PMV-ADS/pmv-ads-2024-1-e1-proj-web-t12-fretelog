@@ -13,6 +13,12 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelo
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/278033a0-f629-43e5-8e05-ba207fd2cee3
 
+<li> CT-03: Verificar o funcionamento da pagina de login.. </li> 
+<p> Responsável: Márlon. </p>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/c5f3d01b-64a9-4917-9d71-9ab840d8909c
+
+
 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
