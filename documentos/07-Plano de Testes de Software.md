@@ -142,37 +142,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-04: Verificar o funcionamento de recuperar a senha.</td>
-  <td>
-   <ul>
-   <li>RF-003:	A aplicação deve permitir ao usuário atualizar e recuperar sua senha.</li>
-   </ul>
-  </td>
-  <td>Verificar se a pagina está realizando a mensagem de recuperação de senha e se informar quando o e-mail não é cadastrado. </td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a pagina de recuperação de senha.</li>
-    <li>Clicar nos links da pagina de recuperação de senha.</li>
-   </ol>
-   </td>
-  <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
-  <td>Marlon</td>
- </tr>
-</table>
-
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
- <tr>
-  <td>CT-05: Verificar o funcionamento da pgina home do motorista.</td>
+  <td>CT-05: Verificar o funcionamento da pagina home do motorista.</td>
   <td>
    <ul>
    <li>RF-014:	A aplicação deve possuir uma pagina para o motorista visualizar os fretes disponíveis.</li>
@@ -283,4 +253,3 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Kayky</td>
  </tr>
 </table>
-
