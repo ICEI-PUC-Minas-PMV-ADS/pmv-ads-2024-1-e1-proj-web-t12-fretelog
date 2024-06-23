@@ -13,6 +13,39 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado/Atualizado/Removido
-- Relação de artefatos ...
+### [0.1.0] - 12/05/2024
+#### Adicionado
+
+Login, cadastro, recuperação de senha: arquivos HTML, CSS, JS e imagens.
+
+
+### [0.1.1] - 07/06/2024
+#### Adicionado/Atualizado
+
+Login, pagina inicial: arquivos HTML, CSS, JS e imagens.
+
+### [0.1.2] - 08/06/2024
+#### Adicionado/Atualizado
+
+Viagens transportadora, historico de viagens motorista: arquivos HTML, CSS, JS e imagens.
+
+### [0.1.3] - 09/06/2024
+#### Adicionado/Atualizado
+
+pagina home motorista, pagina inicial: arquivos HTML, CSS, JS e imagens.
+
+### [0.1.4] - 21/06/2024
+#### Adicionado/Atualizado
+
+Cadastro, editar perfil, home motorista e criação pagina de recuperação de senha: arquivos HTML, CSS, JS e imagens.
+
+
+### [0.1.5] - 22/06/2024
+#### Adicionado/Atualizado
+
+Cadastro de frete, histórico de viagens: arquivos HTML, CSS, JS e imagens.
+
+### [0.1.6] - 23/06/2024
+#### Atualizado
+
+Cadastro de frete, editar perfil, recuperação de senha, pagina home motorista: arquivos HTML, CSS, JS.
