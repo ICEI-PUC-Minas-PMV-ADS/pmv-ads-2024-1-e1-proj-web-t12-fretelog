@@ -1,29 +1,20 @@
 # Introdução
-No contexto atual, o cadastro de motoristas caminhoneiros é predominantemente realizado de maneira manual por diversas transportadoras, demandando esforço considerável por parte das mesmas. Essa abordagem não só é manual, mas também acarreta no compartilhamento de informações pessoais sensíveis por parte dos motoristas através de plataformas de redes sociais.
-
-Frente a essa realidade, emerge a urgência em automatizar tais processos de cadastro, visando não apenas otimizar as operações logísticas das transportadoras, mas também assegurar uma maior confiabilidade no tratamento e compartilhamento de dados pessoais. Este estudo busca analisar os benefícios da automação desses cadastros, delineando estratégias alinhadas às diretrizes da lei geral de proteção de dados, Lei nº 13.709, de 14 de agosto de 2018.
+No contexto contemporâneo, identifica-se uma lacuna significativa no setor logístico no que tange à implementação de plataformas digitais que garantam a comunicação segura com motoristas. Essa deficiência é observada tanto nos procedimentos de cadastro quanto na efetivação de contratos de serviço. Atualmente, tais interações frequentemente ocorrem através de redes sociais, o que eleva exponencialmente o risco de exposição de dados pessoais e informações profissionais, culminando em potenciais fraudes. O presente estudo tem como objetivo investigar os benefícios advindos da adoção de aplicativos que incorporem mecanismos de segurança robustos, propondo estratégias que estejam em consonância com as normativas estabelecidas pela Lei Geral de Proteção de Dados (LGPD), Lei nº 13.709, sancionada em 14 de agosto de 2018.
 
 ## Problema
 Com o avanço da tecnologia e a crescente demanda por serviços de transporte de carga, identificamos um problema significativo: a ausência de uma plataforma digital eficiente para o registro de motoristas de frete. Este projeto visa abordar essa lacuna.
 
 Atualmente, muitos motoristas de frete dependem de métodos tradicionais para encontrar trabalho, o que pode ser demorado e ineficiente. Além disso, a falta de uma plataforma centralizada dificulta a verificação da credibilidade e confiabilidade dos motoristas.
 
-Um aplicativo de fretes no formato do Uber para carreto poderia resolver esses problemas. Ele permitiria o cadastro online de motoristas, tornando o processo mais rápido e eficiente. Além disso, a plataforma poderia implementar um sistema de avaliação e revisão, ajudando os clientes a escolher motoristas confiáveis.
 No entanto, um desafio importante a ser considerado é a proteção dos dados pessoais. Recentemente, temos visto um aumento nos casos de vazamento de dados, o que levanta preocupações legítimas sobre a segurança das informações pessoais. Portanto, é crucial que a plataforma implemente medidas rigorosas de segurança para garantir a proteção dos dados dos usuários.
 
 Em resumo, este projeto tem o potencial de revolucionar o setor de frete, tornando-o mais eficiente e seguro. No entanto, é essencial que a proteção de dados seja uma prioridade para garantir a confiança dos usuários na plataforma.
 
-
 ## Objetivos
-O objetivo primordial deste projeto é desenvolver uma aplicação de fácil usabilidade, que possibilite aos motoristas realizar o cadastro em transportadoras de maneira ágil e prática, garantindo a segurança de seus dados. 
-
-Paralelamente, almeja-se que as transportadoras recebam essas informações de forma integrada, possibilitando a oferta de fretes. Em resumo, o propósito é estabelecer uma comunicação mais eficaz entre ambas as partes.
+O objetivo primordial deste projeto é desenvolver uma aplicação de fácil usabilidade, que possibilite aos motoristas realizar o cadastro e buscar ofertas de trabalho em transportadoras de maneira ágil e prática, garantindo a segurança de seus dados. 
 
 Além disto, foram elencados os seguintes objetivos específicos:
 - Agilizar o processo de contratação de fretes: O aplicativo permitiria aos usuários solicitar um frete de maneira rápida e eficiente.
-- Facilitar a comparação de preços: Os usuários poderiam comparar preços de diferentes transportadoras para encontrar a melhor opção.
-- Rastreamento em tempo real: Os usuários poderiam acompanhar o progresso do frete em tempo real.
-- Pagamento digital seguro: O aplicativo proporciona um método seguro e confiável para os usuários pagarem pelos serviços.
 - Avaliação de transportadoras: Os usuários poderiam avaliar a qualidade do serviço prestado pelas transportadoras.
 - Flexibilidade de horário: O aplicativo permitiria aos usuários solicitar fretes a qualquer hora do dia.
 - Redução do tempo de espera: O aplicativo poderia reduzir o tempo de espera ao conectar os usuários diretamente com as transportadoras disponíveis.
