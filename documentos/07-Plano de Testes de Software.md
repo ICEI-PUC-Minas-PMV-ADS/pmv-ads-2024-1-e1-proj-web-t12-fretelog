@@ -254,3 +254,33 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-08: Verificar o funcionamento do chat de suporte.</td>
+  <td>
+   <ul>
+   <li>RF-13: A aplicação dever possuir um chat de suporte.</li>
+   </ul>
+  </td>
+  <td>Verificar se o chat esta funcionando adequadamente . </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Verificar se o chat de suporte abre.</li>
+    <li>Clicar nas alternativas para que possa ver se eles estão respondendo adequadamente .</li>
+   </ol>
+   </td>
+  <td>O chat de suporte tem que mostra a reposta certa para a pergunta selecionada.</td>
+  <td>Kayky</td>
+ </tr>
+</table>
+
