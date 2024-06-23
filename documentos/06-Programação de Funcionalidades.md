@@ -54,7 +54,7 @@ Exemplo da tela de editar perfil:
 
 #### Requisito atendido
 
-A tela permite que o usuário realize a recuperação de senha de acordo com o requisito funcional. RF-05 e RF07
+A tela permite que o usuário edite o perfil de acordo com o requisito funcional. RF-05 e RF07
 
 Tela de chat suporte (RF-13)
 Responsável: Kayky de Moraes Freitas
@@ -71,3 +71,17 @@ Exemplo da tela de editar perfil:
 #### Requisito atendido
 
 A tela permite que o usuário obtenha ajuda pelo icone de chat suporte. RF-13
+
+Tela de editar perfil (RF-14 e RF-15)
+Responsável: Marlon Luiz Souza de Almeida
+
+O acesso a tela de home motorista poderá ser feito através da opção de menu "login" como usuário motorista.  As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela home motorista:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/664a5e8f-4f5d-4d1a-aec4-45b9b567beae)
+
+
+#### Requisito atendido
+
+A tela permite que o usuário visualize e agende fretes. RF-14 e RF15
