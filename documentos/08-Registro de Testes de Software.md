@@ -6,24 +6,36 @@
 <li> CT-01: Verificar o funcionamento da pagina de cadastro </li> 
 <p> Responsável: Márlon. </p>
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/24b85b3e-e514-4752-8666-565493983948
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/724721ba-e267-4eda-badd-8828fc69a3b1)
+<li> CT-02: Verificar o funcionamento da pagina inicial. </li> 
+<p> Responsável: Márlon. </p>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/278033a0-f629-43e5-8e05-ba207fd2cee3
+
+<li> CT-03: Verificar o funcionamento da pagina de login. </li> 
+<p> Responsável: Márlon. </p>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/c5f3d01b-64a9-4917-9d71-9ab840d8909c
+
+<li> CT-04: Verificar o funcionamento de recuperar a senha. </li> 
+<p> Responsável: Márlon. </p>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/0139f693-def4-4a64-aea6-4790a83e66d6
+
+<li> CT-05: Verificar o funcionamento da pgina home do motorista. </li> 
+<p> Responsável: Márlon. </p>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/61ff95c4-65ec-475b-952d-c7236603daf1
+
+<li> CT-06: Verificar o funcionamento da pagina de histórico de viagens. </li> 
+<p> Responsável: Márlon. </p>
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/5ea72744-4f34-4d6f-be6e-d6153e4b3337)
+<li> CT-07: Verificar o funcionamento da pagina de editar perfil. </li> 
+<p> Responsável: Márlon. </p>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/ac871094-0612-4fa8-b0c2-51c59dc96cab) 
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/e94e4d4e-1b59-4146-b2a4-9b0d19b5e38a)
-
-
-
-
-
-
-
-
-
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/7160af45-e9ac-4e5e-88f2-757cdd75c8a1
 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
