@@ -6,15 +6,16 @@
 <li> CT-01: Verificar o funcionamento da pagina de cadastro </li> 
 <p> Responsável: Márlon. </p>
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/895fbe64-0313-4754-afa2-7d43f6e01656)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/724721ba-e267-4eda-badd-8828fc69a3b1)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/80d8a643-145a-451f-a0f4-9f212a3948a6)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/4fb03119-8f76-4811-9aba-2f607e188519)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/7aeacf4d-f067-45a3-ae61-214d13dd88cb)
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/5ea72744-4f34-4d6f-be6e-d6153e4b3337)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/ac871094-0612-4fa8-b0c2-51c59dc96cab) 
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/e94e4d4e-1b59-4146-b2a4-9b0d19b5e38a)
 
 
 
