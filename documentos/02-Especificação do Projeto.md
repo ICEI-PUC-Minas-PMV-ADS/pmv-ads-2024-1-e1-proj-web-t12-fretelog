@@ -115,7 +115,10 @@
 | RF-10 |  A aplicação deve permitir agendar um serviço para o motorista     | Alta   |
 | RF-11 |  A aplicação deve permitir marcação de conteúdo inapropriado para posterior remoção                    | Alta   |
 | RF-12 |  A aplicação deve ranquear os motoristas por tipo de veículos e rotas especificas                    | Média   |
-| RF-13 |  A aplicação deve ter um chat com suporte                    | Média   |
+| RF-13 |  A aplicação deve ter um chat com suporte                    | Média   | 
+| RF-14 |  A aplicação deve possuir uma pagina para o motorista visualizar os fretes disponíveis.                    | Alta   | 
+| RF-15 |  A aplicação deve permitir um motorista agendar um trabalho quando houver disponibilidade de frete.                     | Alta   | 
+| RF-16 |  A aplicação deve possuir uma pagina para o motorista visualizar o histórico de fretes realizados.                     | Alta   | 
 
 **Prioridade: Alta / Média / Baixa. 
 
