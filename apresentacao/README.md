@@ -4,7 +4,7 @@
 
 Apresentação de slides
 
-[Apresentação fretelog.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/files/15048961/Apresentacao.fretelog.pdf)
+[Apresentação fretelog.pdf](https://github.com/user-attachments/files/15945522/Apresentacao.fretelog.pdf)
 
 
 ## Vídeo de apresentação
